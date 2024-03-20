@@ -2,7 +2,6 @@
 theme: academic
 layout: cover
 class: text-center
-highlighter: shiki
 # coverBackgroundUrl: /test.jpg
 coverBackgroundUrl: "https://drive.google.com/file/d/18YLxJVdvbiCwi7P8ZgsPbaFIjW3WBIe7/view?usp=sharing"
 # coverBackgroundSource: unsplash
