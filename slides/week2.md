@@ -25,5 +25,5 @@ mdc: true
 download: true
 ---
 
-# Welcome to Data Science for Cognitive Neuroscience
+# Welcome to Week2
 ## Anuja Negi
