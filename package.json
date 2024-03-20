@@ -11,6 +11,8 @@
     "@slidev/cli": "^0.48.3",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "playwright-chromium": "^1.19.2",
+
   }
 }
