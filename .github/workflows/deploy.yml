@@ -1,3 +1,4 @@
+
 name: Deploy pages
 
 on:
@@ -30,13 +31,13 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npm run build -- --base /<DS_CogNeuro>/
+        run:  npm run build slides/*.md 
 
       - uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: slides/dist
 
       - name: Deploy
         id: deployment
